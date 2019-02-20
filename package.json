@@ -1,0 +1,22 @@
+{
+  "name": "infalkprojekt",
+  "version": "1.0.0",
+  "description": "igen",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomuwhu/infalkprojekt.git"
+  },
+  "author": "Én",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomuwhu/infalkprojekt/issues"
+  },
+  "homepage": "https://github.com/tomuwhu/infalkprojekt#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
